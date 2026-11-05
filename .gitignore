@@ -1,0 +1,24 @@
+# IDEs
+.idea/
+.zed/
+.vscode/
+todo.md
+
+# Dragonfly
+/world/
+/players/
+/resources/
+
+# Binaries and Executables
+/main
+/mc_server
+/dragonfly
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Data & Configurations
+bans.json
+
